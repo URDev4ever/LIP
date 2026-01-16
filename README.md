@@ -1,5 +1,8 @@
 <h1 align="center">Logic Injection Payloads</h1>
-
+<p align="center">
+  🇺🇸 <a href="README.md"><b>English</b></a> |
+  🇪🇸 <a href="README_ES.md">Español</a>
+</p>
 <h3 align="center">A curated collection of logic injection, type confusion, and edge-case payloads designed to break unsafe assumptions in application logic.</h3>
 
 

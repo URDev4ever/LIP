@@ -1,4 +1,4 @@
-<h1 align="center">Logic Injection Payloads</h1>
+<h1 align="center">LIP: Logic Injection Payloads</h1>
 <p align="center">
   🇺🇸 <a href="README.md"><b>English</b></a> |
   🇪🇸 <a href="README_ES.md">Español</a>
@@ -36,7 +36,7 @@ This repository exists to help:
 The payloads are grouped by **logic category**, not by vulnerability class.
 
 ```
-logic-injection-payloads/
+LIP/
 ├── arrays-objects/
 ├── auth/
 ├── booleans/

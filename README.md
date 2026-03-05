@@ -230,6 +230,17 @@ Use the payloads to:
 
 ---
 
+## Contributing
+
+Pull requests are welcome if they:
+
+* Add new **logic edge cases, coercion scenarios, or unexpected input states**
+* Improve coverage of **type confusion, weak comparison, and truthy/falsy pitfalls**
+* Contribute **realistic logic scenarios** that demonstrate broken assumptions in application code
+* Keep the repository focused on **logic flaws, not classic injection payloads**
+
+---
+
 ## Disclaimer
 
 This repository is provided for **educational, defensive, and authorized security testing purposes only**.

@@ -231,6 +231,17 @@ Usá los payloads para:
 
 ---
 
+## Contribuir
+
+Las pull requests son bienvenidas si:
+
+* Agregan nuevos **casos límite de lógica, coerción de tipos o estados de entrada inesperados**
+* Mejoran la cobertura de **type confusion, comparaciones débiles y comportamientos truthy/falsy**
+* Aportan **escenarios realistas de lógica rota** que demuestren suposiciones inseguras en el código
+* Mantienen el repositorio enfocado en **fallos de lógica y no en inyecciones clásicas**
+
+---
+
 ## Disclaimer
 
 Este repositorio se proporciona **únicamente con fines educativos, defensivos y de testing de seguridad autorizado**.

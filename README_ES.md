@@ -1,7 +1,7 @@
 <h1 align="center">LIP: Logic Injection Payloads</h1>
 <p align="center">
   🇺🇸 <a href="README.md"><b>English</b></a> |
-  🇪🇸 <a href="README_ES.md">Español</a>
+  🇪🇸 <b>Español</b>
 </p>
 <h3 align="center">
 Una colección curada de payloads de inyección lógica, confusión de tipos y casos límite, diseñada para romper suposiciones inseguras en la lógica de las aplicaciones.
